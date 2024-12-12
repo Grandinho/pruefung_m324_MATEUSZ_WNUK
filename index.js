@@ -1,4 +1,4 @@
-import chalk from 'chalk'
+import chalk from 'change chalk'
 
 console.log(chalk.blue('It works'))
 
